@@ -1,7 +1,7 @@
 # Hi 👋, I'm Roy Ganon
 
 🎓 B.Sc. Computer Science  
-💻 Full Stack Developer  at NGsoft
+💻 Full Stack Developer at NGsoft
 ☁️ Cloud • Microservices • DevOps  
 📍 Tel Aviv  
 
